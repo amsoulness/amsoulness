@@ -4,6 +4,14 @@
 
 # Emmanuel Cherian 👋
 
+## Pick a project
+
+| If you came for… | Start here |
+| --- | --- |
+| Moving images made from characters | [Browse the ASCII gallery](https://github.com/amsoulness/aslns-ascii-art/blob/main/PREVIEWS.md) |
+| Tools you can use from your browser | [Open the lab](https://aslns.online/tools) · [Explore the portfolio source](https://github.com/amsoulness/portfolio) |
+| The WhatsApp bot | [Read the framework guide](https://github.com/amsoulness/amsoulness-md) · [See how the deployment image is built](https://github.com/amsoulness/aslns-bot-deploy) |
+
 ### BCA student · aspiring developer · self-taught video editor · browser-tab collector
 
 **I turn ideas into interfaces, edits, and the occasional mysterious CSS bug.**
